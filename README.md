@@ -1,5 +1,7 @@
-### Hi there 👋                                             ![GitHub Logo](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
-### console.log("Hello World!,  I'm LUIS")                   ![Alt Text](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+### Hi there 👋                                             
+### console.log("Hello World!,  I'm LUIS")                  
+
+![GitHub Logo](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 
 
 
